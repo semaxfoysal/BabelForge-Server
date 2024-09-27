@@ -17,6 +17,7 @@ const corsOptions = {
     "http://localhost:5174",
     "http://localhost:3000",
     "https://babel-forge.vercel.app",
+    "https://babel-forge-backup.vercel.app"
   ],
   credentials: true,
   optionSuccessStatus: 200,
